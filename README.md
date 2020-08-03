@@ -3,6 +3,5 @@ This is a supply chain project focused on Analyzing the prediction accuracy of D
 
 *Note: This is a brief description of my Capstone project with Dell, hence data used will not be available for public view
 
-![image](https://user-images.githubusercontent.com/47016027/89138018-2080fb80-d508-11ea-910f-ff8d27d37f6e.png)
+![image](https://user-images.githubusercontent.com/47016027/89138187-c3d21080-d508-11ea-9abf-2b7a8095e8bd.png)
 
-![image](https://user-images.githubusercontent.com/47016027/89138110-72c21c80-d508-11ea-82a8-9c1c03ded1b0.png)
