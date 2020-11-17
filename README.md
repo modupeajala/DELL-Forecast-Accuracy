@@ -1,4 +1,4 @@
-# DELL-Forecast-Accuracy
+# Predictions vs Reality- Analyzing demand of Dell's Hardware Products
 This is a supply chain project focused on Analyzing the prediction accuracy of Dell's hardware products demand
 
 *Note: This is a brief description of my Capstone project with Dell, hence data used will not be available for public view
